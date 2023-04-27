@@ -1,0 +1,20 @@
+.bck{
+    background-color: burlywood;
+    border-style: inset;
+    border-color: aliceblue;
+    border-width: 20%;
+}
+.navbar {
+    position: relative;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    color: aliceblue;
+}
+footer{
+    display: block;
+    color: aliceblue;
+    font-stretch: expanded;
+    justify-content: space-between;
+    text-align: center;
+}

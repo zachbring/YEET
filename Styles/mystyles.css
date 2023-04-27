@@ -1,0 +1,42 @@
+ul{
+    font-size:20px;
+}
+.redyeah{
+    color: red;
+}
+
+.centerit{
+    text-align: center;
+}
+.centerit ul li{
+    display:inline;
+}
+.justify-content-center {
+    justify-content: center !important;
+  }
+.cursive{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.whiteout{
+    color: black;
+}
+.borders{
+    border-color: rgb(217, 193, 36);
+}
+
+.italic{
+    font-style:italic;
+   
+}
+
+.left{
+    text-align: left;
+}
+
+.loop{
+    margin-top: 0;
+    margin-right: 0;
+    margin-left: 0;
+    height: 100vh;
+    width: 100vw;
+}
